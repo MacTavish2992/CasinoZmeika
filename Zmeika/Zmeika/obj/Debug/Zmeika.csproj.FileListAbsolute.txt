@@ -1,0 +1,16 @@
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\bin\Debug\Zmeika.exe.config
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\bin\Debug\Zmeika.exe
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\bin\Debug\Zmeika.pdb
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika.csproj.AssemblyReference.cache
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika.csproj.SuggestedBindingRedirects.cache
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\MainWindow.g.cs
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\App.g.cs
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika_MarkupCompile.cache
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika_MarkupCompile.lref
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\MainWindow.baml
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika.g.resources
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika.Properties.Resources.resources
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika.csproj.GenerateResource.cache
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika.csproj.CoreCompileInputs.cache
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika.exe
+C:\Users\v.voytekhovich\source\repos\Zmeika\Zmeika\obj\Debug\Zmeika.pdb
